@@ -19,3 +19,6 @@ This project performs a comprehensive data analysis on New York City's 311 servi
 ├── Project Data Analyst Final.pdf   # Final executive report and data presentation
 ├── NYC_311_Analysis.ipynb          # Jupyter Notebook containing data cleaning and EDA (Recommended to upload)
 └── README.md                       # Project documentation
+---
+👤 Author  
+Prasad Wagh - [LinkedIn] https://www.linkedin.com/in/prasad-wagh-864386413 
