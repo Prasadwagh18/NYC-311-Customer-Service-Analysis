@@ -17,7 +17,7 @@ This project performs a comprehensive data analysis on New York City's 311 servi
 ## 📁 Repository Structure
 ```text
 ├── Project Data Analyst Final.pdf   # Final executive report and data presentation
-├── NYC_311_Analysis.ipynb          # Jupyter Notebook containing data cleaning and EDA (Recommended to upload)
+├── NYC_311_Analysis.ipynb          # Jupyter Notebook containing data cleaning and EDA
 └── README.md                       # Project documentation
 ---
 👤 Author  
